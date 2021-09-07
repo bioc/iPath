@@ -1,7 +1,7 @@
 Package: iPath
 Type: Package
 Title: iPath pipeline for detecting perturbed pathways at individual level
-Version: 0.99.8
+Version: 0.99.9
 Authors@R: c(person("Kenong","Su", email ="kenong.su@emory.edu", role = c("aut","cre")),
             person("Zhaohui","Qin", email ="zhaohui.qin@emory.edu", role ="aut"))
 Description: iPath is the Bioconductor package used for calculating personalized pathway score and test the association with survival outcomes. 
